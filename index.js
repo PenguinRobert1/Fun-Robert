@@ -1,4 +1,4 @@
-/ Example posting a text URL:
+// Example posting a text URL:
 (async function() {
     const resp = await fetch('https://api.deepai.org/api/cyberpunk-generator', {
             method: 'POST',
