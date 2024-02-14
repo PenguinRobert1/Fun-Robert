@@ -1,6 +1,9 @@
 body {
    background: blue;
  }
+ h1 {
+  coler: gray;
+ }
    p {
      color:  cadetblue;
    }
