@@ -1,5 +1,5 @@
 body {
-    background: blue;
+    background: lawngreen;
   }
   h1 {
    coler: gray;
@@ -54,4 +54,7 @@ body {
         text-align: center;
         text-decoration: none;
         display: inline-block;
+      }
+      center {
+        coler: red
       }
