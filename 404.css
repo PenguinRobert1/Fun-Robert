@@ -1,5 +1,8 @@
 a {
-    coler: rgb(0, 255, 238);
+    color: rgb(0, 255, 238);
+}
+a {
+    text-decoration: white;
 }
 a:hover a:input {
     background-color: blue;
