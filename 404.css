@@ -56,5 +56,5 @@ body {
         display: inline-block;
       }
       center {
-        coler: red
+        -webkit-text-fill-color;: red
       }
