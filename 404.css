@@ -1,3 +1,6 @@
+input:hover input:active{
+  background-color: rgb(29, 47, 206);
+}
 a {
     color: rgb(0, 255, 238);
 }
