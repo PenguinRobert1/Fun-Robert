@@ -5,7 +5,7 @@ a {
     color: rgb(0, 255, 238);
 }
 a {
-    text-decoration-color: white;
+    text-decoration-color: greenyellow;
 }
 a:hover a:input {
     background-color: blue;
